@@ -1,3 +1,4 @@
 # GAMELIBRARYEMULATORJS
-1. DO NOT RENAME FILES OR IT ALL BREAKS
-2. Click on HOMEPAGE.html to open the game library and start playing :)
+1. Click on the green code button in the top right and click "download ZIP"
+2. Extract folder (double click it)
+3. Double click on HOMEPAGE.html to run the library and dont forget to save your states :)
